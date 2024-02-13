@@ -274,7 +274,7 @@ DB_HOST=db
 DB_NAME=playlist-films
 ```
 
-
+### Entre no container da api com 'docker exec -it nome_do_container sh' se 'sh' não funcionar user 'bash'. Depois use o comando 'npm run db:reset'.
 
 
 
