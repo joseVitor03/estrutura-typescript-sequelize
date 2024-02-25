@@ -15,11 +15,15 @@ npm i dotenv express sequelize typescript
     "outDir": "./build",
     "rootDir": "./src",               /* Diretório de saída dos arquivos transpilados */
     "strict": true,                     /* Ativa as configurações de modo estrito */
-    "esModuleInterop": true             /* Permite importar módulos do tipo CommonJS em código do TypeScript */
+    "esModuleInterop": true,
+    "allowImportingTsExtensions": true,
+    "declaration": true,
+    "emitDeclarationOnly":true         /* Permite importar módulos do tipo CommonJS em código do TypeScript */
   },
   "include": ["src/**/*.ts"],           /* Define quais arquivos TypeScript serão compilados */
   "exclude": ["node_modules"]           /* Define quais pastas não serão incluídas na compilação */
 }
+
 
 ```
 
