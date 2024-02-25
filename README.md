@@ -2,7 +2,7 @@
 
 ### Inicie o npm com 'npm init -y'. Instale as dependencias necessarias:
 ```
-npm i -D @types/express @types/node @types/sequelize mysql2 nodemon sequelize-cli chai@4.3.6 mocha@9.2.1 sinon@13.0.1 chai-http@4.3.0 sinon-chai@3.7.0 nyc@15.1.0 @types/chai@4.3.0 @types/chai-http@4.2.0 @types/mocha@9.1.0 @types/sinon@10.0.11 @types/sinon-chai@3.2.9
+npm i -D @types/express @types/node @types/sequelize mysql2 nodemon sequelize-cli chai@4.3.6 mocha@9.2.1 sinon@13.0.1 chai-http@4.3.0 sinon-chai@3.7.0 nyc@15.1.0 @types/chai@4.3.0 @types/chai-http@4.2.0 @types/mocha@9.1.0 @types/sinon@10.0.11 @types/sinon-chai@3.2.9 ts-node
 npm i dotenv express sequelize typescript
 ```
 
